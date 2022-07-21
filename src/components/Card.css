@@ -1,0 +1,11 @@
+.card {
+    background-color: #1A1B21;
+    height: 780px;
+    width: 317px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 0 0;
+    transform: scale(0.95);
+    transition: transform 0.5s, background-color 0.5s, box-shadow 0.5s;
+  }
